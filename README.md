@@ -1,16 +1,16 @@
-## :bulb: Welcome to the world of miracles :milky_way:
+## Welcome to the world of miracles 
 
-### :book: A blog around the topics of AI / ML / BigData / Automation tasks :pencil: 
+### A blog around the topics of AI / ML / BigData / Automation tasks 
 
 #### Idea: 
-  - :loudspeaker: express experience 
-  - :iphone: get in touch with people 
+  - express experience 
+  - get in touch with people 
 
 <p align="center">
 <img src="profil_picture.JPG" width="700"/>
   </p>
 
 
-:mailbox: Feel free to contact me, <br>
-:speech_balloon: if you have a different opinion on articles or you want to discuss anything from the weather to professional ideas. 
+Feel free to contact me, <br>
+if you have a different opinion on articles or you want to discuss anything from the weather to professional ideas. 
 
